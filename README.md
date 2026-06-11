@@ -73,48 +73,58 @@ A skilled **Full Stack Web Developer with over 7 years of experience** in design
 * 📞 **Phone / WhatsApp:** [+95 9425030932](https://wa.me/959425030932)
 * 🌐 **LinkedIn:** [Myo Myint Kyaw](https://www.linkedin.com/in/myo-myint-kyaw-049698126/)
 
-<br />
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 📊 GitHub Statistics
 
-<section id="github-stats" style="background-color:  var(--light-bg); padding: 60px 0;">
-        <div style="max-width: 1000px; margin: 0 auto; padding: 0 auto;">
-            <h2 class="section-title reveal" style="text-align: left; margin-bottom: 40px; color: var(--text-color);">📊
-                GitHub Statistics</h2>
+<div align="center">
+  <!-- ၁။ Profile Big Card အပိုင်း -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=dark" alt="GitHub Profile Details" width="100%" max-width="850px" />
+  <br /><br />
 
-            <!-- တန်းစီပြီး အလယ်တည့်တည့်မှာပြမည့် Profile Card -->
-            <div style="display: flex; justify-content: center; margin-bottom: 30px;" class="reveal">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=dark"
-                    alt="Profile Details" style="max-width: 100%; height: auto; border-radius: 10px;" />
-            </div>
+  <!-- ၂။ Profile Graph နှင့် Contribution Streak (ဘယ်ညာတွဲ Table Layout) -->
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="50%" align="center"><b>Profile</b></th>
+        <th width="50%" align="center"><b>Contribution streak</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Profile Graph" width="100%" />
+        </td>
+        <td align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=myomyintkyaw2280&theme=dark&hide_border=true" alt="Contribution Streak" width="100%" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
 
-            <!-- ဘယ်ညာ နှစ်ကတ်တွဲ ပြသမည့်အပိုင်း (Profile လှိုင်း နှင့် Streak) -->
-            <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;"
-                class="reveal">
-                <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
-                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=react-dark"
-                        alt="Profile Graph" style="width: 100%; height: auto; border-radius: 10px;" />
-                </div>
-                <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myomyintkyaw2280&theme=dark&hide_border=true"
-                        alt="Streak Stats" style="width: 100%; height: auto; border-radius: 10px;" />
-                </div>
-            </div>
+  <!-- ၃။ Top Languages အပိုင်း (ဘယ်ညာတွဲ Table Layout) -->
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="50%" align="center"><b>Top languages (repos)</b></th>
+        <th width="50%" align="center"><b>Top languages (commits)</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=compact&theme=dark&hide_border=true" alt="Top Languages by Repo" width="100%" />
+        </td>
+        <td align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Commit" width="100%" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
 
-            <!-- Top Languages အဝိုင်းပုံစံ ပြသမည့်အပိုင်း -->
-            <div style="display: flex; justify-content: center; margin-bottom: 30px;" class="reveal">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true"
-                    alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;" />
-            </div>
-
-            <!-- အောက်ဆုံးက လိုင်းကွေး Activity Graph -->
-            <div style="display: flex; justify-content: center;" class="reveal">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=github"
-                    alt="Contribution Activity"
-                    style="width: 100%; max-width: 850px; height: auto; border-radius: 10px;" />
-            </div>
-        </div>
-    </section>
+  <!-- ၄။ အောက်ဆုံးက ရက်အလိုက် လှိုင်းပုံစံပြမည့် Contribution Activity Graph -->
+  <p align="center"><b>Contribution Activity</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</div>
