@@ -79,3 +79,42 @@ A skilled **Full Stack Web Developer with over 7 years of experience** in design
   <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+<section id="github-stats" style="background-color:  var(--light-bg); padding: 60px 0;">
+        <div style="max-width: 1000px; margin: 0 auto; padding: 0 auto;">
+            <h2 class="section-title reveal" style="text-align: left; margin-bottom: 40px; color: var(--text-color);">📊
+                GitHub Statistics</h2>
+
+            <!-- တန်းစီပြီး အလယ်တည့်တည့်မှာပြမည့် Profile Card -->
+            <div style="display: flex; justify-content: center; margin-bottom: 30px;" class="reveal">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=dark"
+                    alt="Profile Details" style="max-width: 100%; height: auto; border-radius: 10px;" />
+            </div>
+
+            <!-- ဘယ်ညာ နှစ်ကတ်တွဲ ပြသမည့်အပိုင်း (Profile လှိုင်း နှင့် Streak) -->
+            <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;"
+                class="reveal">
+                <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=react-dark"
+                        alt="Profile Graph" style="width: 100%; height: auto; border-radius: 10px;" />
+                </div>
+                <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myomyintkyaw2280&theme=dark&hide_border=true"
+                        alt="Streak Stats" style="width: 100%; height: auto; border-radius: 10px;" />
+                </div>
+            </div>
+
+            <!-- Top Languages အဝိုင်းပုံစံ ပြသမည့်အပိုင်း -->
+            <div style="display: flex; justify-content: center; margin-bottom: 30px;" class="reveal">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true"
+                    alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;" />
+            </div>
+
+            <!-- အောက်ဆုံးက လိုင်းကွေး Activity Graph -->
+            <div style="display: flex; justify-content: center;" class="reveal">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=github"
+                    alt="Contribution Activity"
+                    style="width: 100%; max-width: 850px; height: auto; border-radius: 10px;" />
+            </div>
+        </div>
+    </section>
