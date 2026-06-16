@@ -96,9 +96,7 @@ A skilled **Full Stack Web Developer with over 7 years of experience** in design
           <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Profile Graph" width="100%" />
         </td>
         <td align="center">
-          <img src="https://github-readme-streak-stats.vercel.app/?user=myomyintkyaw2280&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" width="100%" />
-</td>
-
+             <img src="https://github-readme-streak-stats.herokuapp.com/?user=myomyintkyaw2280&theme=dark&hide_border=true" alt="Contribution Streak" width="100%" />
       </tr>
     </tbody>
   </table>
