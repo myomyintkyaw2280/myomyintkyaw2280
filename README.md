@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-A skilled **Full Stack Web Developer with over 7 years of experience** in designing, developing, and maintaining end-to-end web applications. I specialize in building Learning Management Systems (LMS), ERP solutions, news portals, multi-vendor e-commerce platforms, and online ticketing systems. Passionate about leveraging expertise in both front-end and back-end technologies to deliver scalable and high-performance solutions.
+A skilled **Full Stack Web Developer with over 5 years of experience** in designing, developing, and maintaining end-to-end web applications. I specialize in building Learning Management Systems (LMS), ERP solutions, news portals, multi-vendor e-commerce platforms, and online ticketing systems. Passionate about leveraging expertise in both front-end and back-end technologies to deliver scalable and high-performance solutions.
 
 ---
 
@@ -61,8 +61,8 @@ A skilled **Full Stack Web Developer with over 7 years of experience** in design
 
 ### 🎓 Education & Qualifications
 
-* 🎓 **Bachelor of Engineering (IT)** — Technological University (Monywa), Myanmar (*2017 - 2019*)
-* 🎓 **Bachelor of Technology (IT)** — Technological University (Monywa), Myanmar (*2012 - 2015*)
+* 🎓 **Bachelor of Engineering (IT)** — Technological University (Monywa), Myanmar
+* 🎓 **Bachelor of Technology (IT)** — Technological University (Monywa), Myanmar
 * 📜 **Professional Certificate in Web Technologies (PHP)** — India-Myanmar Center for Enhancement of IT Skills (IMCEITS)
 
 ---
@@ -78,52 +78,31 @@ A skilled **Full Stack Web Developer with over 7 years of experience** in design
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- ၁။ Profile Big Card အပိုင်း -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=dark" alt="GitHub Profile Details" width="100%" max-width="850px" />
-  <br /><br />
 
-  <!-- ၂။ Profile Graph နှင့် Contribution Streak (ဘယ်ညာတွဲ Table Layout) -->
-  <table width="100%">
-    <thead>
-      <tr>
-        <th width="50%" align="center"><b>Profile</b></th>
-        <th width="50%" align="center"><b>Contribution streak</b></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Profile Graph" width="100%" />
-        </td>
-        <td align="center">
-             <img src="https://github-readme-streak-stats.herokuapp.com/?user=myomyintkyaw2280&theme=dark&hide_border=true" alt="Contribution Streak" width="100%" />
-      </tr>
-    </tbody>
-  </table>
-  <br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer+%7C+Team+Lead)](https://git.io/typing-svg)
+<br>
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=myomyintkyaw2280&cc=1a1b27&tc=FFFFFF&ic=3B82F6&bc=30363d)](https://github.com/tuhinpal/readme-stats-github)
+<br>
 
-  <!-- ၃။ Top Languages အပိုင်း (ဘယ်ညာတွဲ Table Layout) -->
-  <table width="100%">
-    <thead>
-      <tr>
-        <th width="50%" align="center"><b>Top languages (repos)</b></th>
-        <th width="50%" align="center"><b>Top languages (commits)</b></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=compact&theme=dark&hide_border=true" alt="Top Languages by Repo" width="100%" />
-        </td>
-        <td align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Commit" width="100%" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
+| Profile | Contribution streak |
+| :---: | :---: |
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://streak-stats.demolab.com/?user=myomyintkyaw2280&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/> |
 
-  <!-- ၄။ အောက်ဆုံးက ရက်အလိုက် လှိုင်းပုံစံပြမည့် Contribution Activity Graph -->
-  <p align="center"><b>Contribution Activity</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+| Top languages (repos) | Top languages (commits) |
+| :---: | :---: | 
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myomyintkyaw2280&theme=github_dark" alt="Top languages by repository"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myomyintkyaw2280&theme=github_dark" alt="Top languages by commits"/> |
+
+| Stats | Most used languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" alt="Profile Graph" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Commit" width="100%" /> |
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+<br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,flutter,nodejs,js,ts,react,nextjs,vuejs,mysql,postgres,mongodb,firebase,aws,azure,git,github,postman&perline=7)](https://skillicons.dev)
+
+<br><br>
+
+<a href="https://visitorbadge.io/status?path=myomyintkyaw2280"><img src="https://api.visitorbadge.io/api/visitors?path=myomyintkyaw2280&countColor=%23263759" /></a>
+
 </div>
