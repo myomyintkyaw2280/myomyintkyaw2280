@@ -70,7 +70,6 @@ A skilled **Full Stack Web Developer with over 5 years of experience** in design
 ### 📬 Connect with Me
 * 📍 **Location:** Hlaing Township, Yangon, Myanmar
 * 📧 **Email:** [myomyintkyaw796@gmail.com](mailto:myomyintkyaw796@gmail.com)
-* 📞 **Phone / WhatsApp:** [+95 9425030932](https://wa.me/959425030932)
 * 🌐 **LinkedIn:** [Myo Myint Kyaw](https://www.linkedin.com/in/myo-myint-kyaw-049698126/)
 
 ---
