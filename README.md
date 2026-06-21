@@ -87,13 +87,9 @@ A skilled **Full Stack Web Developer with over 5 years of experience** in design
 | :---: | :---: |
 | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://streak-stats.demolab.com/?user=myomyintkyaw2280&theme=github-dark&hide_border=true&count_private=true" alt="GitHub contribution streak"/> |
 
-| Top languages (repos) | Top languages (commits) |
-| :---: | :---: | 
-| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myomyintkyaw2280&theme=github_dark" alt="Top languages by repository"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myomyintkyaw2280&theme=github_dark" alt="Top languages by commits"/> |
-
-| Stats | Most used languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" alt="Profile Graph" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true" alt="Top Languages by Commit" width="100%" /> |
+| Stats | Top languages (repos) | Most used languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=myomyintkyaw2280&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Profile Graph" width="100%" /> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myomyintkyaw2280&theme=github_dark" alt="Top languages by repository"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myomyintkyaw2280&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages by Commit" width="100%" /> |
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myomyintkyaw2280&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 <br><br>
