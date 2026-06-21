@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-A skilled **Full Stack Web Developer with over 5 years of experience** in designing, developing, and maintaining end-to-end web applications. I specialize in building Learning Management Systems (LMS), ERP solutions, news portals, multi-vendor e-commerce platforms, and online ticketing systems. Passionate about leveraging expertise in both front-end and back-end technologies to deliver scalable and high-performance solutions.
+A skilled **Full Stack Web Developer with over 6 years of experience** in designing, developing, and maintaining end-to-end web applications. I specialize in building Learning Management Systems (LMS), ERP solutions, news portals, multi-vendor e-commerce platforms, and online ticketing systems. Passionate about leveraging expertise in both front-end and back-end technologies to deliver scalable and high-performance solutions.
 
 ---
 
