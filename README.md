@@ -85,7 +85,7 @@ A skilled **Full Stack Web Developer with over 5 years of experience** in design
 
 | Profile | Contribution streak |
 | :---: | :---: |
-| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://streak-stats.demolab.com/?user=myomyintkyaw2280&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/> |
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myomyintkyaw2280&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://streak-stats.demolab.com/?user=myomyintkyaw2280&theme=github-dark&hide_border=true&count_private=true" alt="GitHub contribution streak"/> |
 
 | Top languages (repos) | Top languages (commits) |
 | :---: | :---: | 
